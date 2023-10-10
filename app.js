@@ -4,9 +4,9 @@ const path = require('path')
 const app = express();
 app.use(express.static('./staticPublic'))
 
-app.get('/about', (req, res) => {
-  res.sendFile(200, path.resolve(__dirname, './staticPublic/about.html'))
-})
+// app.get('/about', (req, res) => {
+//   res.sendFile(200, path.resolve(__dirname, './staticPublic/about.html'))
+// })
 
 
 app.all('*', (req, res) => {
