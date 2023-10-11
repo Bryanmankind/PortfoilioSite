@@ -437,7 +437,7 @@ nav .fa-solid {
   }
 
   .header-text {
-    margin-top: 100%;
+    margin-top: 40%;
     font-size: 16px;
   }
 
@@ -446,8 +446,10 @@ nav .fa-solid {
   }
 
   nav .fa-solid {
+    padding-right: 30px;
     display: block;
     font-size: 25px;
+    color: lightseagreen;
   }
 
   nav ul {
