@@ -507,9 +507,10 @@ nav .fa-solid {
   }
 
   .about-col-2 p {
-    padding: 5px;
+    padding: -5px;
     word-wrap: break-word; 
     overflow-wrap: break-word;
+    margin:3px;
   }
 
   .tab-links {
