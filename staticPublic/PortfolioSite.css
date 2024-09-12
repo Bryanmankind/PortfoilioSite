@@ -494,6 +494,11 @@ nav .fa-solid {
 
   .row {
     margin-left: -35px;
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-start;
+    padding: 10px;
+    margin: 0 auto;
   }
 
   .about-col-1, .about-col-2 {
