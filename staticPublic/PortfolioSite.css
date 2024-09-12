@@ -494,7 +494,7 @@ nav .fa-solid {
 
   .about-col-1, .about-col-2 {
     flex-basis: 100%;
-    padding: 10px;
+    padding: 30px 20px;
   }
 
   .about-col-1 img {
