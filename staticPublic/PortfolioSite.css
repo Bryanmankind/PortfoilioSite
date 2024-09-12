@@ -126,8 +126,8 @@ nav ul li a:hover::after {
 }
 
 .about-col-2 p {
-text-align: justify;
-padding: 10px;
+  text-align: justify;
+  padding: 10px;
 }
 
 .Sub-title {
@@ -486,6 +486,10 @@ nav .fa-solid {
 
   .Sub-title {
     font-size: 40px;
+  }
+
+  .row {
+    margin-left: -35px;
   }
 
   .about-col-1, .about-col-2 {
