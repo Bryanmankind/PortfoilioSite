@@ -493,7 +493,7 @@ nav .fa-solid {
   }
 
   .row {
-    margin-left: -35px;
+    margin-left: -10px;
     display: flex;
     flex-direction: column; 
     align-items: flex-start;
