@@ -491,7 +491,7 @@ nav .fa-solid {
   }
 
   .row {
-    margin-left: -35px;
+    margin-left: -45px;
   }
 
   .about-col-1, .about-col-2 {
@@ -512,7 +512,7 @@ nav .fa-solid {
     word-wrap: break-word;
     overflow-wrap: break-word;
     margin: 0; 
-    padding-left: 30px; 
+    padding-right: 40px; 
   }
   
 
